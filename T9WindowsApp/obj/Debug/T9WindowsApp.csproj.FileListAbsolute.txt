@@ -1,0 +1,8 @@
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\bin\Debug\T9WindowsApp.exe
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\bin\Debug\T9WindowsApp.pdb
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\obj\Debug\T9WindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\obj\Debug\T9WindowsApp.Form1.resources
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\obj\Debug\T9WindowsApp.Properties.Resources.resources
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\obj\Debug\T9WindowsApp.csproj.GenerateResource.Cache
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\obj\Debug\T9WindowsApp.exe
+C:\Users\lakshmibhargavab\Desktop\T9Dictionary\T9WindowsApp\obj\Debug\T9WindowsApp.pdb
